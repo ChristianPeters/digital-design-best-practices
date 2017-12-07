@@ -1,0 +1,16 @@
+---
+title: Gestaltung die Welt der Zeichen
+---
+
+tl;dr Gestaltung gibt Bedeutung(en) Form
+
+Unser Alltag besteht aus Interaktionen. Wir interagieren mit unseren Mitmenschen, aber auch mit »Dingen«. Die Interaktion ist die Grundlage der Gesellschaft und des sozialen Menschen. Sie dient der Übertragung von Bedeutung, die in unterschiedlichsten Formen – als gesprochene Sprache, als Bild, als Schriftsprache, als Handzeichen, usw. – gebunden sein kann. Die Bindung der Bedeutung an einen Bedeutungsträger ist dabei immer zeichenhaft. Der Begriff »Zeichen« soll hier sehr weit verstanden werden und alles das meinen, was Bedeutung transportieren kann. Das Zeichen hat dabei jedoch nicht bereits aus sich heraus eine Bedeutung, sonder erhält diese erst durch die Kopplung von Zeichen und Bezeichnetem. Diese semantische Kopplung unterliegt ständiger Veränderung. Das absolute Zeichen gibt es nicht. Die Kopplung von Zeichen und Bezeichnetem ist historisch gebunden. Veränderte Bedingungen können zu neuen Zeichen oder der Umdeutung bestehender Zeichen führen. Die Zeichen dienen also immer der Beschreibung von lebensweltlicher Realität.
+
+Wenn es für etwas jedoch kein Zeichen gibt, so kann dieses nicht bezeichnet werden und auch kein Teil der Realität werden – ungeachtet seiner Existenz. Unsere Zeichen beschreiben unsere Wirklichkeit indem sie sie konstruieren. Wir bauen uns unsere Wirklichkeitsvorstellung aus den Zeichen, die wir in Interaktionen häufig antreffen. Durch einen Satz häufiger Zeichen die für einen größeren Kreis zu einem bestimmten Zeitpunkt Geltung hat, entstehen ähnliche Weltvorstellungen innerhalb der Mitglieder dieses Kreises. Die Zeichen ermöglichen das gesellschaftliche Miteinander also erst und werden zudem zu Identitätsstiftern. Je häufiger wir einem Zeichen oder Zeichensystem begegnen, desto weniger stellen wir seine fluide Natur in Frage und desto mehr beginnen wir es als »absolute Wirklichkeit« anzusehen und können es aus unserem täglichen Leben nicht mehr wegdenken – das Zeichen bzw. Zeichensystem wird naturalisiert.
+
+> Indem wir uns die Welt zeichenhaft aneignen, konstruieren wir unsere Welt.
+
+Wir treten jedoch nicht nur mit anderen Menschen in zeichenhafte Interaktionen sondern auch mit »Dingen« in unserer Lebenswelt. Neben der natürlichen Umwelt fallen vor allem die gestalteten – also Mensch-gemachten – Dinge in diese Kategorie. Die gestalteten Dinge »sprechen« zu uns. Betrachten wir für einen Moment einen Hocker als Beispiel: Der Hocker selbst kann als Zeichen für seine Funktion – das Sitzen – sowie den Kontext seiner Funktion – handelt es sich um einen Barhocker oder Klavierhocker? – verstanden werden. Des weiteren sagt die Art seiner Verarbeitung etwas über Hersteller und Herstellungsprozess aus: Handelt es sich um einen hochwertigen, exklusiven Hocker oder um ein Massenprodukt? Zu guter letzt trifft der Hocker aber auch einige Aussagen über unsere Kultur: Die Existenz des Hockers ist ein Verweis auf die kulturelle Praktik des Sitzens. Ästhetik und Materialität des Hockers sagen etwas über seinen (potenziellen) Besitzer und so weiter.
+
+
+Was am Hocker exemplarisch gut zu illustrieren ist, gilt für alle gestalteten Dinge – auch in unserer digitalisierten Welt. Gestalten bedeutet also Bedeutung Form zu geben – mal bewusster, mal weniger bewusst.
