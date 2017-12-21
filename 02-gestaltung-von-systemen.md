@@ -1,4 +1,10 @@
-# Gestaltung von Systemen
+---
+
+title: Gestaltung von Systemen
+
+---
+
+Artefakte sind an Zeitpunkte gebunden. Systeme ermöglichen die Gestaltung zeitgemäßer Artefakte
 
 In der Software-Entwicklung hat der Umbruch vom Wasserfallmodell zur agilen Entwicklung bereits vor bereits über zwei Jahrzehnten stattgefunden. Mit dem agile manifesto wurde der Grundstein für eine iterative Vorgehensweise gelegt, die inkrementel eine Lösung entstehen lässt, die sich zum jeweiligen Zeitpunkt den äußeren und inneren Bedingungen anpassen kann. Flexibilität, Nachhaltigkeit und geringes Risiko, etwas zu produzieren, was zum Zeitpunkt der Fertigstellung nicht mehr zeitgemäß ist, sind die Vorteile.
 
